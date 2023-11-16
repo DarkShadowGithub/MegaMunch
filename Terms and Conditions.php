@@ -25,21 +25,21 @@
     <main>
 		<div class="User-Info">
 			<h1>Terms and Conditions</h1>
-			<p>This website (“Site”) is provided by MegaMunch Corp. ( “MegaMunch”, “we” and/or “us”) as a 
-			service to our customers (“you”). Please review the following terms and conditions that govern
-			your use of this Site (the "Agreement"). MegaMunch provides you access to this Site subject to 
-			the terms and conditions of this Agreement. Please note that your use of this Site constitutes 
-			your unconditional agreement to follow and be bound by these terms and conditions. MegaMunch 
-			reserves the right to update or modify the Agreement at any time without prior notice. If the 
-			Agreement has been updated, MegaMunch will post the new Agreement on this Site and note the date
-			that it was last updated. Your use of this Site following any such posting constitutes your 
-			unconditional agreement to follow and be bound by the Agreement as changed.
+			<p>This website (“Site”) is provided by MegaMunch Corp. ( “MegaMunch”, “we” and/or “us”) as a <br>
+			service to our customers (“you”). Please review the following terms and conditions that govern <br>
+			your use of this Site (the "Agreement"). MegaMunch provides you access to this Site subject to <br>
+			the terms and conditions of this Agreement. Please note that your use of this Site constitutes <br>
+			your unconditional agreement to follow and be bound by these terms and conditions. MegaMunch <br>
+			reserves the right to update or modify the Agreement at any time without prior notice. If the <br>
+			Agreement has been updated, MegaMunch will post the new Agreement on this Site and note the date <br>
+			that it was last updated. Your use of this Site following any such posting constitutes your <br>
+			unconditional agreement to follow and be bound by the Agreement as changed. <br>
 
-			By using this Site, you represent that you are of the age of majority in your jurisdiction. If you are not 
-			of the age of majority in your jurisdiction, you must only use this Site under the supervision of your 
-			parent or legal guardian who agrees to the Agreement. If you are a parent or legal guardian agreeing 
-			to the Agreement, you must monitor and supervise the use of this Site by the minor and you are fully 
-			responsible for the minor’s use of this Site, including all financial charges and legal liability that he or 
+			By using this Site, you represent that you are of the age of majority in your jurisdiction. If you are not <br>
+			of the age of majority in your jurisdiction, you must only use this Site under the supervision of your <br>
+			parent or legal guardian who agrees to the Agreement. If you are a parent or legal guardian agreeing <br>
+			to the Agreement, you must monitor and supervise the use of this Site by the minor and you are fully <br>
+			responsible for the minor’s use of this Site, including all financial charges and legal liability that he or <br>
 			she may incur.</p>
 		</div>
       <?php include "support.php"; ?>  
