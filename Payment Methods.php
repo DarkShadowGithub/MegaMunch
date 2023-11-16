@@ -29,7 +29,7 @@
 			<li>Credit Card</li>
 			<li>PayPal</li>
 		<h2>Instore Payment Methods:</h3>
-			<li>Credit Card<</li>
+			<li>Credit Card</li>
 			<li>Debit Card</li>
 			<li>Cash</li> 
 	 </div>
